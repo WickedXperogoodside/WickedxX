@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/slights)](https://discord.gg/CqEP58maGT)
+[![widget](https://ibb.co/HnM9BwQ)](https://discord.gg/CqEP58maGT)
 
 </div>
