@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![widget](https://ibb.co/HnM9BwQ)](https://discord.gg/CqEP58maGT)
+[![widget](https://cdn.discordapp.com/attachments/1176189664454000724/1196725565554688020/wckid_dc.png?ex=65b8ac88&is=65a63788&hm=49c56006216e2bf2ab0fa9277f064ec73a8e5c5afa407b2252d36dc72e43ac1d&)](https://discord.gg/CqEP58maGT)
 
 </div>
