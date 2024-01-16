@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there WickedX here!👋
 
 <!--
 **Coodings created by,/WickedX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
 <img align="right" width="400" alt="Wicked" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
 
-<h2> // about-me </h2>
+<h2> // About-Self </h2>
 
 - 💗 18 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">WickedX 神</a>
