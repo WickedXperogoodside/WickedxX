@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <h2> // About-Self </h2>
 
 - 💗 18 | Philippines
-- 🧊 <a href="https://discord.gg/revshit">WickedX 神</a>
+- 🧊 <a href="https://discord.gg/.trnchkds">WickedX 神</a>
 
-<h2> // socials </h2>
+<h2> // Social Media </h2>
 
 - <a href="https://www.youtube.com/@WickedX1337">YouTube</a>
 - <a href="https://t.me/dWickedX">Telegram</a>
 
-<h2> // WickedX </h2>
+<h2> // Learning </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
