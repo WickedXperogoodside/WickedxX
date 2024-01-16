@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-<img align="right" width="400" alt="Wicked" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
+<img align="right" width="400" alt="Wicked" src="https://cdn.discordapp.com/attachments/1174293704010379329/1196727296376197140/nashgrk.jpg?ex=65b8ae25&is=65a63925&hm=4ff92b76c9c44847b8e1bccca9b8ec4269dd8185f0e678e18be2d14edac3f80a&"/>
 
 <h2> // About-Self </h2>
 
